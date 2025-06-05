@@ -16,7 +16,7 @@ para ver este repositorio dar click en el sig [link](https://github.com/fredd81/
 
 Puedes ver el código fuente en el siguiente enlace:
 
-🔗 [index.html en GitHub](fredd81.github.io/PF-MODULO1/)
+🔗 [index.html en GitHub](https://github.com/fredd81/MONLOWEBSITE/blob/master/index.html)
 
 ## 📂 Estructura básica del proyecto
 
