@@ -12,7 +12,7 @@ Es una página estática básica,  En esta primera versión, el contenido está 
 
 ## 🌐 Ver el proyecto
 
-para ver este repositorio dar click en el sig [link]()
+para ver este repositorio dar click en el sig [link](https://github.com/fredd81/MONLOWEBSITE.git)
 
 Puedes ver el código fuente en el siguiente enlace:
 
